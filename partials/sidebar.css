@@ -6,7 +6,7 @@
 
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: serif;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
@@ -218,3 +218,4 @@ a.article, a.article:hover {
     }
 
 }
+
