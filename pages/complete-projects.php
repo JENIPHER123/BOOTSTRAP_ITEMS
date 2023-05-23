@@ -19,7 +19,7 @@
             
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
-                  <h1 class='pb-5'>Collapse</h1>
+                  <h1 class='pb-5'>Complete Projects</h1>
                   <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
             </div>
             

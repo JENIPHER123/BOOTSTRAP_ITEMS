@@ -15,10 +15,10 @@
                     <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Free Templates</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu">
                         <li>
-                            <a href="pages/template-design.php">Template Design</a>
+                            <a href="template-design.php">Template Design</a>
                         </li>
                         <li>
-                            <a href="pages/template-code.php">Template CODE</a>
+                            <a href="template-code.php">Template CODE</a>
                         </li>
                       
                     </ul>
@@ -27,10 +27,10 @@
                     <a href="#homeSubmenu1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Bootstrap CDN</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu1">
                         <li>
-                          <a href="pages/alerts.php">CSS CDN</a>  
+                          <a href="css-cdn.php">CSS CDN</a>  
                         </li>
                         <li>
-                          <a href="pages/js-cdn.php.php">JS CDN</a>  
+                          <a href="js-cdn.php">JS CDN</a>  
                         </li>
                        
                     </ul>
@@ -42,13 +42,13 @@
                     <a href="#homeSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">100 Project Goal</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu5">
                          <li>
-                             <a href="pages/total-projects.php">Total Projects</a>
+                             <a href="total-projects.php">Total Projects</a>
                         </li>
                         <li>
-                            <a href="pages/complete-projects.php">Complete Projects</a>
+                            <a href="complete-projects.php">Complete Projects</a>
                         </li>
                         <li>
-                            <a href="partials/pending-projects.php">Pending Projects</a>
+                            <a href="pending-projects.php">Pending Projects</a>
                         </li>
                       
                     </ul>

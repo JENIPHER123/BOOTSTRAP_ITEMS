@@ -1,0 +1,6 @@
+/* card effect css */
+
+ .effect:hover{
+    box-shadow: 1px 9px 9px 7px rgb(141, 143, 141) ;
+    cursor: pointer;
+ }
