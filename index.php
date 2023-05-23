@@ -1,47 +1,32 @@
 <?php include_once 'partials/header.php'?>
 <?php include_once 'partials/navbar.php'?>
-    
-   
+<div style="margin-top:-40px;"></div>
+<?php include_once 'partials/sidenav.php'?> 
 
-  <!-- body section-->
-  <div class="row p-5">
-    <div class="col-md-4 d-flex justify-content-center align-content-center">
-     <a href="items.php" >
-      <div class="card m-3 effect" style="width: 18rem;">
-        <img src="images/img.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">View Items</h5>
-          <p class="card-text">All bootstrap 5 components at your finger tips.</p>
-        </div>
-      </div>
-      </a>
-    </div>
-    <div class="col-md-4 d-flex justify-content-center align-content-center">
-     <a href="tips_and_tricks.php">
-      <div class="card m-3 effect" style="width: 18rem;">
-        <img src="images/img2.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Tips and Tricks</h5>
-          <p class="card-text">Get a Hold of all relevant tips and tricks.</p>
-          
-        </div>
-      </div>
-      </a>
-    </div>
-     <div class="col-md-4 d-flex justify-content-center align-content-center">
-       <a href="sites.php">
-         <div class="card m-3 effect" style="width: 18rem;">
-          <img src="images/img4.jpg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Template site tricks.</h5>
-            <p class="card-text">Check out all relevant template site tricks.</p>
-          
-          </div>
-         </div>
-       </a>
-      </div>
-    
-  </div>
+  <!-- Page Content Holder -->
+<div id="content" >
+  
+<!-- NAVIGATION SECTION OF PAGE -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>  
+                </div>
+            </nav>
+            
+ <!-- END NAVIGATION SECTION OF PAGE -->
+            <div class="body-content p-3">
+                  <h1 class='pb-5'>My Content</h1>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit alias vel ducimus reprehenderit, quae aperiam porro. Ex repudiandae ducimus commodi voluptatum eos nostrum iusto, dolorem laborum cumque odio impedit veniam.</p>
+            </div>
+            
+
+</div>
+
+
 
 
   <!-- end body section-->
