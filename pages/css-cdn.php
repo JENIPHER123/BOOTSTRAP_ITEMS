@@ -20,7 +20,10 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>css cdn</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                  <p>
+                    < link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+                    </script>
+                    </p>
             </div>
             
 
