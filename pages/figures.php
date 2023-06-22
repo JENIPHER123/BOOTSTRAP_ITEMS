@@ -20,7 +20,31 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Figures</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                 
+                  <div class="row">
+                      <!-- figures example 1 -->
+                      <div class="col-sm-6">
+                      <div class="h3 pb-4 ">Example 1 !</div>
+                      <figure class="figure">
+                        <img src="../images/img1.jpg" class="figure-img img-fluid rounded " alt="...">
+                        <figcaption class="figure-caption">A caption for the above image.</figcaption>
+                      </figure>
+                      </div>
+                      <!-- figures example 1 ! -->
+
+                      <!-- figures example 1 -->
+                      <div class="col-sm-6">
+                      <div class="h3 pb-4">Example 2 !</div>
+                      <figure class="figure">
+                        <img src="../images/img2.jpg" class="figure-img img-fluid rounded" alt="...">
+                        <figcaption class="figure-caption text-end">A caption for the above image.</figcaption>
+                      </figure>
+                      </div>
+                      <!-- figures example 1 ! -->
+                  </div>
+                 
+
+                  
             </div>
             
 
