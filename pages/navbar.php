@@ -188,10 +188,7 @@
                   </nav>
                  <!-- navbar example 5 ! -->
 
-                <!-- navbar example 5 -->
-                   <h1 class='pb-4'>Example 8 !</h1>
-                 
-                 <!-- navbar example 5 ! -->
+               
                  
             </div>
             
