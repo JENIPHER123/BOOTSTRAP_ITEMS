@@ -100,7 +100,7 @@
                                 <a href="navbar.php">Navbar</a>
                             </li>
                             <li>
-                                <a href="pagniation.php">Pagniation</a>
+                                <a href="pagination.php">Pagniation</a>
                             </li>
                             <li>
                                 <a href="popovers.php">Popovers</a>
