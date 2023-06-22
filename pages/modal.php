@@ -1,7 +1,7 @@
-<?php include_once 'partials/header.php'?>
-<?php include_once 'partials/navbar.php'?>
+<?php include_once '../partials/header.php'?>
+<?php include_once '../partials/navbar.php'?>
 <div style="margin-top:-40px;"></div>
-<?php include_once 'partials/sidenav.php'?> 
+<?php include_once '../partials/sidebar1.php'?> 
 
   <!-- Page Content Holder -->
 <div id="content" >
@@ -31,4 +31,4 @@
 
   <!-- end body section-->
 
-<?php include_once 'partials/footer.php'?>
+<?php include_once '../partials/footer.php'?>

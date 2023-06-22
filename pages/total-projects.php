@@ -1,7 +1,7 @@
-<?php include_once 'partials/header.php'?>
-<?php include_once 'partials/navbar.php'?>
+<?php include_once '../partials/header.php'?>
+<?php include_once '../partials/navbar.php'?>
 <div style="margin-top:-40px;"></div>
-<?php include_once 'partials/sidenav.php'?> 
+<?php include_once '../partials/sidebar1.php'?>  
 
   <!-- Page Content Holder -->
 <div id="content" >
@@ -20,7 +20,8 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Total Projects</h1>
-                    <!-- your content here -->
+                    <!-- your content here
+                   -->
             </div>
             
 
@@ -31,4 +32,4 @@
 
   <!-- end body section-->
 
-<?php include_once 'partials/footer.php'?>
+<?php include_once '../partials/footer.php'?>

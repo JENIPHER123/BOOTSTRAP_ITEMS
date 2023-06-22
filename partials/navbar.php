@@ -9,16 +9,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+            <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="items.php">Bootstrap Items</a>
+            <a class="nav-link" href="../items.php">Bootstrap Items</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="tips_and_tricks.php">Tips and Tricks</a>
+            <a class="nav-link" href="../tips_and_tricks.php">Tips and Tricks</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="sites.php">Sites</a>
+            <a class="nav-link" href="../sites.php">Sites</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">| Welcome to Bootstrap. Happy Coding !!! |</a>

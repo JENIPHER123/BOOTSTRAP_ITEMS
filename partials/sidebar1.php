@@ -27,19 +27,19 @@
                     <a href="#homeSubmenu1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Section 1</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu1">
                         <li>
-                          <a href="partials/alerts.php">Alerts</a>  
+                          <a href="alerts.php">Alerts</a>  
                         </li>
                         <li>
-                          <a href="partials/sidebar.php">Sidebar</a>  
+                          <a href="sidebar.php">Sidebar</a>  
                         </li>
                         <li>
-                            <a href="partials/borders.php">Borders</a>
+                            <a href="borders.php">Borders</a>
                         </li>
                         <li>
-                            <a href="partials/breadcrum.php">BreadCrams</a>
+                            <a href="breadcrum.php">BreadCrams</a>
                         </li>
                         <li>
-                            <a href="partials/buttons.php">Buttons</a>
+                            <a href="buttons.php">Buttons</a>
                         </li>
                     </ul>
                 </li>
@@ -47,18 +47,18 @@
                     <a href="#homeSubmenu2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Section 2</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu2">
                         <li>
-                           <a href="partials/card.php">Cards</a>
+                           <a href="card.php">Cards</a>
                         </li>
                         <li>
-                            <a href="partials/carousel.php">Carousel</a>
+                            <a href="carousel.php">Carousel</a>
                         </li>
                         <li>
-                            <a href="partials/closebutton.php">Close Button</a>
+                            <a href="closebutton.php">Close Button</a>
                         </li>
                         <li>
-                            <a href="partials/collapse.php">collapse</a>
+                            <a href="collapse.php">collapse</a>
                         </li> <li>
-                            <a href="partials/containers.php">Containers</a>
+                            <a href="containers.php">Containers</a>
                         </li>
                     </ul>
                 </li>
@@ -67,22 +67,22 @@
                     <a href="#homeSubmenu3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Section 3</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu3">
                        <li>
-                             <a href="partials/dropdowns.php">Dropdowns</a>
+                             <a href="dropdowns.php">Dropdowns</a>
                         </li>
                         <li>
-                            <a href="partials/figures.php">Figures</a>
+                            <a href="figures.php">Figures</a>
                         </li>
                         <li>
-                            <a href="partials/forms.php">Forms</a>
+                            <a href="forms.php">Forms</a>
                         </li>
                         <li>
-                            <a href="partials/images.php">Images</a>
+                            <a href="images.php">Images</a>
                         </li>
                         <li>
-                            <a href="partials/inputgroups.php">Input Groups</a>
+                            <a href="inputgroups.php">Input Groups</a>
                         </li>
                         <li>
-                            <a href="partials/listgroup.php">List Groups</a>
+                            <a href="listgroup.php">List Groups</a>
                         </li>
                     </ul>
                 </li>
@@ -91,22 +91,22 @@
                     <a href="#homeSubmenu4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Section 4</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu4">
                             <li>
-                                 <a href="partials/modal.php">Modal</a>
+                                 <a href="modal.php">Modal</a>
                             </li>
                             <li>
-                                <a href="partials/nav.php">Nav</a>
+                                <a href="nav.php">Nav</a>
                             </li>
                             <li>
-                                <a href="partials/navbar.php">Navbar</a>
+                                <a href="navbar.php">Navbar</a>
                             </li>
                             <li>
-                                <a href="partials/pagniation.php">Pagniation</a>
+                                <a href="pagniation.php">Pagniation</a>
                             </li>
                             <li>
-                                <a href="partials/popovers.php">Popovers</a>
+                                <a href="popovers.php">Popovers</a>
                             </li>
                             <li>
-                                <a href="partials/position.php">Position</a>
+                                <a href="position.php">Position</a>
                             </li>
                     </ul>
                 </li>
@@ -115,19 +115,19 @@
                     <a href="#homeSubmenu5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Section 5</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu5">
                          <li>
-                             <a href="partials/progress.php">Progress</a>
+                             <a href="progress.php">Progress</a>
                         </li>
                         <li>
-                            <a href="partials/scrollspy.php">Scrollspy</a>
+                            <a href="scrollspy.php">Scrollspy</a>
                         </li>
                         <li>
-                            <a href="partials/tables.php">Tables</a>
+                            <a href="tables.php">Tables</a>
                         </li>
                         <li>
-                            <a href="partials/tooltips.php">Tooltips</a>
+                            <a href="tooltips.php">Tooltips</a>
                         </li>
                         <li>
-                            <a href="partials/video_embeded.php">Video Embedded</a>
+                            <a href="video_embeded.php">Video Embedded</a>
                         </li>
                     </ul>
                 </li>
