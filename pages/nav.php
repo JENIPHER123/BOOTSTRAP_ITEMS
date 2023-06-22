@@ -19,10 +19,105 @@
             
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
-                  <h1 class='pb-5'>Nav</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                  <h1 class='pb-5'>Bootstrap Nav</h1>
+                
+                  <!-- nav example 1 -->
+                  <div class="h3 pb-4">Example 1 disabled !</div>
+                  <ul class="nav">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li>
+                  </ul>
+                  <br><br><br>
+                  <!-- nav example 1 ! -->
+
+                  <!-- nav example 1 -->
+                  <div class="h3 pb-4">Example 2 disabled !</div>
+                  <ul class="nav justify-content-center">
+                      <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Active</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                      </li>
+                    </ul>
+                    <br><br><br>
+                  <!-- nav example 1 ! -->
+
+                  <!-- nav example 1 -->
+                  <div class="h3 pb-4">Example 3 disabled !</div>
+                  <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li>
+                  </ul>
+                  <br><br><br>
+                  <!-- nav example 1 ! -->
+
+                  <!-- nav example 1 -->
+                  <div class="h3 pb-5">Example 4 disabled !</div>
+                    <ul class="nav nav-tabs">
+                      <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Active</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                      </li>
+                    </ul>
+                    <br><br><br>
+                  <!-- nav example 1 ! -->
+
+                  <!-- nav example 1 -->
+                  <div class="h3 pb-5">Example 5 disabled !</div>
+                  <ul class="nav nav-pills">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li>
+                  </ul>
+                  <br><br>
+                  <!-- nav example 1 ! -->
             </div>
             
+
 
 </div>
 
