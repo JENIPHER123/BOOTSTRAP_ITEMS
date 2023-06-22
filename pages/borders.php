@@ -21,8 +21,9 @@
             
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
-                  <h1 class='pb-5'>Borders</h1>
+                  <h1 class='pb-4'>Bootstrap Borders</h1>
                  <!-- borders example 1 -->
+                 <div class="h3">Example 1 !</div>
                 <div class="row">
                   <div class="col-sm-2 m-1 bg-light border"style="height:150px;"></div>
                   <div class="col-sm-2 m-1 bg-light border-top"style="height:150px;"></div>
@@ -35,6 +36,7 @@
 
                    <!-- borders example 2 -->
                    <br>
+                   <div class="h3">Example 2 !</div>
                 <div class="row">
                   <div class="col-sm-2 m-1 bg-light border border-primary"style="height:150px;"></div>
                   <div class="col-sm-2 m-1 bg-light border border-secondary"style="height:150px;"></div>
@@ -51,6 +53,7 @@
 
                  <!-- borders example 3 -->
                 <br>
+                <div class="h3">Example 3 !</div>
                 <div class="row">
                   <div class="col-sm-2 m-1 bg-secondary rounded"style="height:150px;"></div>
                   <div class="col-sm-2 m-1 bg-secondary rounded-top"style="height:150px;"></div>
