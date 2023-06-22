@@ -168,6 +168,7 @@
                             <div class="body-content p-3">
                                   <h1 class='pb-5'>Modal</h1>
                                   <!-- modal example 1 -->
+                                  <div class="h3 pb-4">Example 3 normal !</div>
                                      <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                       Launch demo modal
@@ -192,11 +193,82 @@
                                       </div>
                                     </div>
                                   </div>
+                                  <br><br><br>
                                 <!-- modal example 1 ! -->
 
                                 <!-- modal example 2 -->
-                                
+                                <div class="h3 pb-4">Example 3 pre-text !</div>
+                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-whatever="@mdo">Open modal for @mdo</button>
+                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-whatever="@fat">Open modal for @fat</button>
+                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-whatever="@getbootstrap">Open modal for @getbootstrap</button>
+
+                                <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                  <div class="modal-dialog">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">New message</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                      </div>
+                                      <div class="modal-body">
+                                        <form>
+                                          <div class="mb-3">
+                                            <label for="recipient-name" class="col-form-label">Recipient:</label>
+                                            <input type="text" class="form-control" id="recipient-name">
+                                          </div>
+                                          <div class="mb-3">
+                                            <label for="message-text" class="col-form-label">Message:</label>
+                                            <textarea class="form-control" id="message-text"></textarea>
+                                          </div>
+                                        </form>
+                                      </div>
+                                      <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Send message</button>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <br><br><br>
                                 <!-- modal example 2 ! -->
+
+                                <!-- modal example 1 -->
+                               
+                                  <!-- Modal -->
+                                  <div class="h3 pb-4">Example 3 interchange !</div>
+                                  <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+                                      <div class="modal-dialog modal-dialog-centered">
+                                        <div class="modal-content">
+                                          <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalToggleLabel">Modal 1</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                          </div>
+                                          <div class="modal-body">
+                                            Show a second modal and hide this one with the button below.
+                                          </div>
+                                          <div class="modal-footer">
+                                            <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal" data-bs-dismiss="modal">Open second modal</button>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+                                      <div class="modal-dialog modal-dialog-centered">
+                                        <div class="modal-content">
+                                          <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalToggleLabel2">Modal 2</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                          </div>
+                                          <div class="modal-body">
+                                            Hide this modal and show the first with the button below.
+                                          </div>
+                                          <div class="modal-footer">
+                                            <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal" data-bs-dismiss="modal">Back to first</button>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <a class="btn btn-primary" data-bs-toggle="modal" href="#exampleModalToggle" role="button">Open first modal</a>
+                                <!-- modal example 1 ! -->
                        </div>
             
 
@@ -204,7 +276,25 @@
 
 
 
+                          <script>
+                            var exampleModal = document.getElementById('exampleModal1')
+                          exampleModal.addEventListener('show.bs.modal', function (event) {
+                            // Button that triggered the modal
+                            var button = event.relatedTarget
+                            // Extract info from data-bs-* attributes
+                            var recipient = button.getAttribute('data-bs-whatever')
+                            // If necessary, you could initiate an AJAX request here
+                            // and then do the updating in a callback.
+                            //
+                            // Update the modal's content.
+                            var modalTitle = exampleModal.querySelector('.modal-title')
+                            var modalBodyInput = exampleModal.querySelector('.modal-body input')
 
+                            modalTitle.textContent = 'New message to ' + recipient
+                            modalBodyInput.value = recipient
+                          })
+
+                          </script>
   <!-- end body section-->
 
 <?php include_once '../partials/footer.php'?>
