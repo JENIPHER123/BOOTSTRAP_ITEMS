@@ -20,7 +20,29 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Images</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                  
+                  <div class="row">
+                    <div class="col-sm-6">
+                        <!-- images example 1 -->
+                        <div class="h3 pb-4">Example 1 responsive image !</div>
+                        <img src="../images/img2.jpg" class="img-fluid" alt="..." >
+                        <!-- images example 1 ! -->
+                    </div>
+                    <div class="col-sm-6">
+                        <!-- images example 2 -->
+                        <div class="h3 pb-4">Example 2 thumbnail image !</div>
+                        <img src="../images/img1.jpg" class="img-thumbnail" alt="...">
+                        <!-- images example 2 ! -->
+                    </div>
+                  </div>
+                  
+                  <!-- images example 3 -->
+                  <br><br>
+                  <div class="h3 pb-4">Example 3 with rounded edges!</div>
+                  <img src="../images/img.jpg" class="rounded float-start" alt="..."style="width:40%;">
+                  <img src="../images/img5.jpg" class="rounded float-end" alt="..."style="width:40%;">
+                   <!-- images example 3 ! -->
+                  
             </div>
             
 
