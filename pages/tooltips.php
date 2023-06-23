@@ -20,7 +20,10 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Tools and Tips</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+
+                 <!--  Tools and tips example 1 -->
+                 <a href="https://getbootstrap.com/docs/5.0/examples/cheatsheet/"class="btn btn-success " target="_blank" rel="noopener noreferrer">Bootstrap Cheat sheets</a>
+                 <!-- Tools and tips example 1 ! -->
             </div>
             
 

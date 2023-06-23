@@ -19,13 +19,36 @@
             
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
-                  <h1 class='pb-5'>Vedio Embeded</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                  <h1 class='pb-5'>Video Embedded</h1>
+                 
+                  <!-- video Embedded example 1 -->
+                  <div class="h3 pb-4">Example 1 !</div>
+                  <div class="ratio ratio-1000x9">
+                    <iframe src="https://www.youtube.com/embed/VZfGJlD2SbY?rel=0" title="YouTube video" style="width: 100%; height:40vh"></iframe>
+                       <!-- 
+                          IN THE FOLLOWING : zpOULjyy-n8 =REPLACED ACCORDINGLY IN THE ABOVE LINK
+                          https://www.youtube.com/watch?v=zpOULjyy-n8
+                        -->
+                  </div>
+                  <!-- video Embedded example 1 !-->
+
+                   <!-- video Embedded example 2 -->
+                   <div class="h3 pb-4">Example 2 !</div>
+                  <div class="ratio ratio-21x9">
+                    <iframe src="https://www.youtube.com/embed/BRX-r51_1TA?rel=0" title="YouTube video" ></iframe>
+                       <!-- 
+                          IN THE FOLLOWING : zpOULjyy-n8 =REPLACED ACCORDINGLY IN THE ABOVE LINK
+                          https://www.youtube.com/watch?v=zpOULjyy-n8
+                        -->
+                  </div>
+                  <!-- video Embedded example 2 !-->
+
+               
+
+                
             </div>
-            
-
+           
 </div>
-
 
 
 
