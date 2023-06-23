@@ -20,7 +20,17 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Containers</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+
+                  <div class="container-sm bg-light p-5 m-4">100% wide until small breakpoint</div>
+                  <div class="container-md bg-light p-5 m-4">100% wide until medium breakpoint</div>
+                  <div class="container-lg bg-light p-5 m-4">100% wide until large breakpoint</div>
+                  <div class="container-xl bg-light p-5 m-4">100% wide until extra large breakpoint</div>
+                  <div class="container-xxl bg-light p-5 m-4">100% wide until extra extra large breakpoint</div>
+                  <div class="container-fluid bg-light p-5 m-4">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod aspernatur nisi asperiores numquam. Omnis unde esse vel, necessitatibus impedit numquam. Dolor excepturi minus quaerat atque aliquid praesentium sunt nobis ad numquam dolore suscipit ipsam veritatis ratione voluptates consectetur animi fuga, doloremque sit voluptatem explicabo? Vero quaerat labore quis eius animi officiis molestiae voluptatem, voluptatum dicta error sequi ullam at et!
+                  </div>
+
+
             </div>
             
 
