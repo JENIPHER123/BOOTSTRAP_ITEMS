@@ -20,7 +20,32 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Close Button</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                  
+                  
+                  <!-- close button example 1 -->
+                  <div class="h3 pb-4">Example 1 !</div>
+                  <p>Try as much as possible to design this yourself and add the functionality using js or you could also customize the close button on modal forms to your desire.</p>
+                  <br><br><br>
+                  <!-- close button example 1 -->
+
+                  <!-- close button example 2 -->
+                  <div class="h3 pb-4">Example 2 !</div>
+                          <button type="button" class="close"
+                    aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                  <br><br><br>
+                  <!-- close button example 2 -->
+
+                  <!-- close button example 3 -->
+                  <div class="h3 pb-4">Example 3 !</div>
+                  <button type="button" class="close"
+                    aria-label="Close" disabled>
+                    <span aria-hidden="true">×</span>
+                </button>
+                  <br><br><br>
+                  <!-- close button example 3 -->
+
             </div>
             
 
