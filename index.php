@@ -19,8 +19,18 @@
             
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
-                  <h1 class='pb-5'>Overal Project Description</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+            <h1 class='pb-5'>Lets Get Started !!</h1>
+                 <p>Welcome to coding with Jenny!! :).</p>
+                  <nav id="sidebar" class='p-3 bg-dark'>
+                    <ul class="list-unstyled CTAs">
+                      <li>
+                          <a href="https://github.com/JENIPHER123"target="blank" class="download">My Github Profile</a>
+                      </li>
+                      <li>
+                          <a href="https://jenipher-kuki.000webhostapp.com/" target="blank"class="article">My Portfolio Website</a>
+                      </li>
+                  </ul>
+                </nav>
             </div>
             
 

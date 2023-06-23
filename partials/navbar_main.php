@@ -21,7 +21,7 @@
             <a class="nav-link" href="sites.php">Sites</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">| Welcome to Bootstrap. Happy Coding !!! |</a>
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">| 0717639683 | jeniperkuki@gmail.com | onyangoje123@gmail.com !!! |</a>
           </li>
         </ul>
       </div>
