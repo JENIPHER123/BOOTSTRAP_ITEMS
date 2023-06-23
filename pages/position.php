@@ -20,7 +20,10 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>Position</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                 
+                  <a href="https://getbootstrap.com/docs/5.0/utilities/position/#:~:text=Arrange%20elements%20easily%20with%20the%20edge%20positioning%20utilities.,-%20for%20the%20horizontal%20right%20position%20%28in%20LTR%29"class="btn btn-success text-light" target="_blank" rel="noopener noreferrer">Click to See Example!</a>
+                  <br><br>
+                  <p>For position you can use rows and column, float,align-items- and justify-content-</p>
             </div>
             
 
