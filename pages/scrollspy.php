@@ -20,7 +20,14 @@
  <!-- END NAVIGATION SECTION OF PAGE -->
             <div class="body-content p-3">
                   <h1 class='pb-5'>ScrollSpy</h1>
-                  <p>This project is focused on providing the source codes of bootstrap sippets along with the demo. I also have a recod of 100 projects to do in the course of one year. Each project once completed will either be launched live or uploaded on github for all to access and use as a learning guide.</p>
+                 
+                  <!-- scrollspy example 1 -->
+                  <a href="https://getbootstrap.com/docs/5.0/components/scrollspy/"class="btn btn-success text-light" target="_blank" rel="noopener noreferrer">Click to See Example!</a>
+                  <br><br>
+                  <div class="cont15"data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+                    <p>For this set the overflow @ scroll and add styling and script to customize view.</p>
+                  </div>
+                  <!-- scrollspy example 1 ! -->
             </div>
             
 
